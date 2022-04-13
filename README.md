@@ -19,5 +19,6 @@
 - First repeated word in a string
 - Counting words and splitting nodes
 - Most frequent in a sub array
+- Add two lists
 - Recursion practice set
 - BST problems (Markar Assignment)
